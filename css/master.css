@@ -156,7 +156,7 @@ nav ul {
 article {
   width: 95%;
   margin: 25px auto;
-  min-height: 30vh;
+  min-height: 40vh;
 }
 
 @media screen and (min-width: 768px) {
